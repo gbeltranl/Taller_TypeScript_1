@@ -1,0 +1,22 @@
+.card{
+    padding: 15px;
+}
+.img-fluid{
+    max-width: 80%;
+    padding: 10px;
+}
+
+.td{
+    display: table-cell;    
+}
+
+tofit{
+    width: fit-content;
+    block-size: fit-content;
+}
+
+col_form{
+    width: fit-content;
+    block-size: fit-content;
+
+}
